@@ -2,8 +2,3 @@
 # coding: utf-8
 
 
-import tornado
-
-client = tornado.httpclient.AsyncHttpClient()
-client
-
